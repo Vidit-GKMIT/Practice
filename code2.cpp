@@ -2,13 +2,16 @@
 using namespace std;
 
 int main() {
-    int n;
+    int rows, cols;
 
-    cout << "Enter the size of the square: ";
-    cin >> n;
+    cout << "Enter number of rows: ";
+    cin >> rows;
 
-    for (int i = 0; i < n; i++) {           // rows
-        for (int j = 0; j < n; j++) {       // columns
+    cout << "Enter number of columns: ";
+    cin >> cols;
+
+    for (int i = 0; i < rows; i++) {         // loop through rows
+        for (int j = 0; j < cols; j++) {     // loop through columns
             cout << "* ";
         }
         cout << endl;
