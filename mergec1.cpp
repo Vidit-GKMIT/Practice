@@ -1,12 +1,58 @@
-// git submodule [--quiet] [--cached]
-// git submodule [--quiet] add [<options>] [--] <repository> [<path>]
-// git submodule [--quiet] status [--cached] [--recursive] [--] [<path>…​]
-// git submodule [--quiet] init [--] [<path>…​]
-// git submodule [--quiet] deinit [-f|--force] (--all|[--] <path>…​)
-// git submodule [--quiet] update [<options>] [--] [<path>…​]
-// git submodule [--quiet] set-branch [<options>] [--] <path>
-// git submodule [--quiet] set-url [--] <path> <newurl>
-// git submodule [--quiet] summary [<options>] [--] [<path>…​]
-// git submodule [--quiet] foreach [--recursive] <command>
-// git submodule [--quiet] sync [--recursive] [--] [<path>…​]
-// git submodule [--quiet] absorbgitdirs [--] [<path>…​]
+// cbruhbf3e784t80r3q'43t54'
+// 6__cpp_ref_qualifiers$#%^&%
+// TERWEQFWE$#%Y$
+// __GXX_RTTIVWCQE4235465&JTEHRWGEQ
+// W$T
+// ##
+//     !
+//     @alignas
+//     #$%Y
+//     $#@!R
+//     #@T$
+//     F
+//     QW#
+// @$%$^#Y$@T#@RE!
+// 23
+// 43542qRW@$
+// #%46%TEHRW
+// EGQ@#$
+// 356%#@#!
+// @alignas
+// #$%
+// 65U$%#Y
+// $T#@1#$
+// 53
+// 4@#
+// 4@alignas4thBDFXdvsfgnhbvfdsgngeRF
+// HYthrTW#R
+// @#^$
+// 3@%!$
+// cbruhbf3e784t80r3q'43t54'
+// 6__cpp_ref_qualifiers$#%^&%
+// TERWEQFWE$#%Y$
+// __GXX_RTTIVWCQE4235465&JTEHRWGEQ
+// W$T
+// ##
+//     !
+//     @alignas
+//     #$%Y
+//     $#@!R
+//     #@T$
+//     F
+//     QW#
+// @$%$^#Y$@T#@RE!
+// 23
+// 43542qRW@$
+// #%46%TEHRW
+// EGQ@#$
+// 356%#@#!
+// @alignas
+// #$%
+// 65U$%#Y
+// $T#@1#$
+// 53
+// 4@#
+// 4@alignas4thBDFXdvsfgnhbvfdsgngeRF
+// HYthrTW#R
+// @#^$
+// 3@%!$
