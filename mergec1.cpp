@@ -1,15 +1,12 @@
-// dsfnbrifeqwjqkwrg$#$%^&*()*_&YTREASXCSVBRETH%$YG_FEFW_QEG$Y#%_#T@QRWSAXCSDVFBTE
-// XAFEW$T#%^&_WEWXCSA_DVRE$%_^U&%JYTEBRWVEQCWQ_#@$%^_%GWEQF_WDQ$T#%&I56wq 
-// qw^_$%QWRQ_$T%Y^_UTEHRWADVSC}ew5346
-// 54+EQFWQ_ERTHYJ_UKTYJ_RTEHRWGEQFW_R#@$_$^_U%$Tehrwgdas
-// reg_$Y#%U^&utyngdfbsdvsc
-// dsfnbrifeqwjqkwrg$#$%^&*()*_&YTREASXCSVBRETH%$YG_FEFW_QEG$Y#%_#T@QRWSAXCSDVFBTE
-// XAFEW$T#%^&_WEWXCSA_DVRE$%_^U&%JYTEBRWVEQCWQ_#@$%^_%GWEQF_WDQ$T#%&I56wq 
-// qw^_$%QWRQ_$T%Y^_UTEHRWADVSC}ew5346
-// 54+EQFWQ_ERTHYJ_UKTYJ_RTEHRWGEQFW_R#@$_$^_U%$Tehrwgdas
-// reg_$Y#%U^&utyngdfbsdvsc
-// dsfnbrifeqwjqkwrg$#$%^&*()*_&YTREASXCSVBRETH%$YG_FEFW_QEG$Y#%_#T@QRWSAXCSDVFBTE
-// XAFEW$T#%^&_WEWXCSA_DVRE$%_^U&%JYTEBRWVEQCWQ_#@$%^_%GWEQF_WDQ$T#%&I56wq 
-// qw^_$%QWRQ_$T%Y^_UTEHRWADVSC}ew5346
-// 54+EQFWQ_ERTHYJ_UKTYJ_RTEHRWGEQFW_R#@$_$^_U%$Tehrwgdas
-// reg_$Y#%U^&utyngdfbsdvsc
+// git submodule [--quiet] [--cached]
+// git submodule [--quiet] add [<options>] [--] <repository> [<path>]
+// git submodule [--quiet] status [--cached] [--recursive] [--] [<path>…​]
+// git submodule [--quiet] init [--] [<path>…​]
+// git submodule [--quiet] deinit [-f|--force] (--all|[--] <path>…​)
+// git submodule [--quiet] update [<options>] [--] [<path>…​]
+// git submodule [--quiet] set-branch [<options>] [--] <path>
+// git submodule [--quiet] set-url [--] <path> <newurl>
+// git submodule [--quiet] summary [<options>] [--] [<path>…​]
+// git submodule [--quiet] foreach [--recursive] <command>
+// git submodule [--quiet] sync [--recursive] [--] [<path>…​]
+// git submodule [--quiet] absorbgitdirs [--] [<path>…​]
